@@ -1,0 +1,70 @@
+body {
+	background-color: #f9f9f9;
+}
+
+.carousel {
+	margin-top: 100px;
+}
+
+h1 {
+	color: rgb(116, 3, 106);
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#card-cat{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin: 20px;
+}
+
+
+footer {
+	margin-top: 100px;
+	color: black;
+	background: orange;
+}
+
+.btn {
+	background: rgb(87, 13, 119);
+	color: #fff;
+	border-color: purple;
+}
+
+.btn:hover {
+	background: white;
+	color: purple;
+}
+
+#buttonenv {
+	background-color: rgb(5, 156, 13);
+	border: rgb(5, 156, 13);
+}
+#buttonenv:hover {
+	background: #0d6302;
+	color: black;
+}
+
+#buttonsair {
+	background-color: #bd0000;
+	border: rgb(0, 0, 0);
+}
+#buttonsair:hover {
+	background: red;
+	color: black;
+}
+
+a {
+	color: black;
+}
+
+#titles {
+	text-align: center;
+	width: 20px;
+}
+
+.form-control {
+}

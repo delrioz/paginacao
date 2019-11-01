@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c011a5ce-a5cb-4315-9ab0-2ed3d15c821b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/.php_cs" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/.php_cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/Source.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/Source.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/changelog.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/changelog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/el.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/el.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/eu.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/eu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/fi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/hr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/hr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/id.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/id.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/it.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ka.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ka.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/kk.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/kk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/kn.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/kn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ms.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ms.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/nb.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/nb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/nl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/pl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/pt-BR.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/pt-BR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/sl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/sr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/th.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/th.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/ur.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/ur.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/vi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/zh-CN.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/zh-CN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/zh-HK.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/zh-HK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/json/zh-TW.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/json/zh-TW.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/script/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/script/en/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/script/en/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/script/en/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/script/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/script/en/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/script/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/script/en/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/script/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/script/en/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/script/todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/script/todo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ar/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ar/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ar/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ar/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ar/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ar/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ar/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ar/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/az/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/az/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/az/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/az/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/az/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/az/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/az/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/az/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/be/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/be/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/be/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/be/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/be/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/be/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/be/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/be/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bg/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bg/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bg/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bg/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bg/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bg/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bg/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bg/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bn/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bn/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bn/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bn/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bn/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bn/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bn/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bn/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bs/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bs/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bs/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bs/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bs/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bs/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/bs/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/bs/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ca/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ca/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ca/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ca/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ca/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ca/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ca/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ca/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cs/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cs/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cs/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cs/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cs/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cs/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cs/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cs/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cy/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cy/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cy/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cy/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cy/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cy/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/cy/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/cy/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/da/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/da/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/da/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/da/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/da/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/da/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/da/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/da/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de-CH/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de-CH/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de-CH/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de-CH/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de-CH/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de-CH/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de-CH/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de-CH/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/de/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/de/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/el/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/el/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/el/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/el/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/el/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/el/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/el/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/el/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/es/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/es/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/es/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/es/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/es/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/es/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/es/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/es/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/et/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/et/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/et/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/et/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/et/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/et/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/et/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/et/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/eu/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/eu/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/eu/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/eu/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/eu/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/eu/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/eu/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/eu/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fa/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fa/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fa/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fa/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fa/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fa/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fa/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fa/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fi/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fi/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fi/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fi/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fi/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fi/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fi/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fi/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fr/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fr/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fr/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fr/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fr/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fr/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/fr/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/fr/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/gl/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/gl/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/gl/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/gl/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/gl/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/gl/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/gl/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/gl/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/he/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/he/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/he/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/he/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/he/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/he/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/he/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/he/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hi/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hi/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hi/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hi/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hi/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hi/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hi/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hi/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hr/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hr/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hr/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hr/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hr/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hr/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hr/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hr/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hu/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hu/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hu/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hu/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hu/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hu/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/hu/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/hu/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/id/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/id/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/id/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/id/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/id/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/id/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/id/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/id/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/is/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/is/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/is/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/is/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/is/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/is/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/is/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/is/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/it/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/it/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/it/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/it/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/it/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/it/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/it/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/it/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ja/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ja/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ja/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ja/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ja/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ja/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ja/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ja/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ka/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ka/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ka/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ka/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ka/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ka/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ka/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ka/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kk/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kk/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kk/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kk/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kk/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kk/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kk/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kk/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/km/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/km/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/km/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/km/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/km/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/km/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/km/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/km/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kn/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kn/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kn/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kn/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kn/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kn/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/kn/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/kn/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ko/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ko/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ko/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ko/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ko/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ko/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ko/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ko/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lt/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lt/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lt/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lt/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lt/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lt/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lt/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lt/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lv/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lv/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lv/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lv/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lv/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lv/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/lv/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/lv/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/me/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/me/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/me/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/me/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/me/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/me/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/me/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/me/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mk/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mk/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mk/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mk/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mk/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mk/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mk/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mk/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mn/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mn/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mn/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mn/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mn/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mn/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/mn/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/mn/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ms/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ms/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ms/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ms/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ms/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ms/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ms/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ms/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nb/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nb/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nb/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nb/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nb/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nb/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nb/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nb/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ne/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ne/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ne/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ne/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ne/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ne/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ne/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ne/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nl/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nl/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nl/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nl/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nl/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nl/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nl/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nl/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nn/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nn/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nn/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nn/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nn/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nn/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/nn/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/nn/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pl/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pl/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pl/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pl/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pl/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pl/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pl/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pl/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt-BR/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/pt/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/pt/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ro/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ro/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ro/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ro/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ro/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ro/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ro/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ro/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ru/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ru/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ru/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ru/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ru/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ru/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ru/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ru/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sc/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sc/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sc/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sc/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sc/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sc/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sc/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sc/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/si/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/si/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/si/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/si/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/si/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/si/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/si/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/si/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sk/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sk/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sk/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sk/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sk/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sk/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sk/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sk/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sl/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sl/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sl/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sl/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sl/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sl/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sl/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sl/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sq/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sq/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sq/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sq/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sq/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sq/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sq/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sq/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sr/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sr/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sr/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sr/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sr/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sr/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sr/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sr/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sv/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sv/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sv/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sv/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sv/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sv/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sv/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sv/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sw/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sw/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sw/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sw/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sw/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sw/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/sw/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/sw/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tg/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tg/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tg/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tg/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tg/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tg/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tg/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tg/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/th/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/th/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/th/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/th/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/th/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/th/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/th/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/th/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tk/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tk/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tk/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tk/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tk/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tk/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tk/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tk/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tl/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tl/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tl/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tl/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tl/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tl/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tl/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tl/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tr/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tr/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tr/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tr/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tr/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tr/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/tr/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/tr/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ug/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ug/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ug/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ug/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ug/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ug/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ug/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ug/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uk/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uk/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uk/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uk/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uk/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uk/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uk/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uk/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ur/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ur/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ur/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ur/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ur/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ur/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/ur/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/ur/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-cyrillic/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/uz-latin/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/vi/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/vi/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/vi/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/vi/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/vi/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/vi/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/vi/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/vi/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-CN/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-HK/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/pagination.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/passwords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/src/zh-TW/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laravel-lang/todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-lang/todo.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Laravel-lang" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/xethron/migrations-generator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/xethron/laravel-4-generators" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-analytics" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/madewithlove/illuminate-psr-cache-bridge" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Ov6sPK9eazTZk5lfvvZwQDcNZp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c011a5ce-a5cb-4315-9ab0-2ed3d15c821b" name="Default Changelist" comment="" />
+      <created>1564845929841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564845929841</updated>
+      <workItem from="1564845940306" duration="147000" />
+      <workItem from="1564932586000" duration="321000" />
+      <workItem from="1565381242773" duration="324000" />
+      <workItem from="1565402034967" duration="123000" />
+      <workItem from="1567277079587" duration="4746000" />
+      <workItem from="1568140614621" duration="5662000" />
+      <workItem from="1568741662532" duration="2229000" />
+      <workItem from="1568744549320" duration="601000" />
+      <workItem from="1569261286640" duration="449000" />
+      <workItem from="1569263992711" duration="1297000" />
+      <workItem from="1569341733142" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

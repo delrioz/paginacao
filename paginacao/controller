@@ -1,0 +1,6 @@
+
+In RouteAction.php line 89:
+                                                  
+  Invalid route action: [App\Http\Controllers\].  
+                                                  
+

@@ -1,0 +1,50 @@
+body {
+	background-color: #f9f9f9;
+}
+
+.carousel {
+	margin-top: 100px;
+}
+
+h1 {
+	color: rgb(116, 3, 106);
+	margin-top: 80px;
+	margin-bottom: 80px;
+	height: -15px;
+	text-align: right fluid;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-details {
+	background: rgb(87, 13, 119);
+	color: #fff;
+	border-color: purple;
+}
+
+.btn-details:hover {
+	background: white;
+	color: purple;
+}
+
+.btn-a:hover {
+	background: orange;
+	color: black;
+}
+
+a {
+	color: black;
+}
+
+#titles {
+	text-align: center;
+	width: 20px;
+}
+
+.list-group {
+	border: 1px solid orange;
+	margin-top: 100px;
+}
+
